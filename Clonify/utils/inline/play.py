@@ -89,9 +89,9 @@ def stream_markup(_, chat_id):
             InlineKeyboardButton(text="▢", callback_data=f"ADMIN Stop|{chat_id}"),
          ],
         [
-             InlineKeyboardButton(text="σᴡηєʀ", url="https://t.me/ll_NOBITA_DEFAULTERS_ll"),
+             InlineKeyboardButton(text="σᴡηєʀ", url="https://t.me/Ronakguptaji"),
              
-             InlineKeyboardButton(text="ѕᴜᴘᴘσʀᴛ", url="https://t.me/+E7jXcV6jpK0xMGJl")
+             InlineKeyboardButton(text="ѕᴜᴘᴘσʀᴛ", url="https://t.me/RonakMUSICbox")
          ],
         [
             InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close"),
@@ -242,10 +242,10 @@ def stream_markup2(_, chat_id):
         ],
 [
             InlineKeyboardButton(
-                text="ᴏᴡɴᴇʀ", url=f"https://t.me/ll_NOBITA_DEFAULTERS_ll"
+                text="ᴏᴡɴᴇʀ", url=f"https://t.me/Ronakguptaji"
             ),
             InlineKeyboardButton(
-                text="sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/+E7jXcV6jpK0xMGJl"
+                text="sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/ronakgupta32"
             ),
         ],
 
