@@ -15,11 +15,11 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 BOT_ID = getenv("BOT_ID")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","ll_NOBITA_DEFAULTERS_ll")
+OWNER_USERNAME = getenv("OWNER_USERNAME","Ronakguptaji")
 # --------------------------------------------------------
 BOT_USERNAME = getenv("BOT_USERNAME" , "NOBITA_MUSIC_TG_BOT")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "˹ 𝐍ᴏʙɪᴛᴀ ꭙ 𝐌ᴜsɪᴄ [2] ˼")
+BOT_NAME = getenv("BOT_NAME" , "˹ 𝐑ᴏɴᴀᴋ ꭙ 𝐌ᴜ𝐬ɪᴄ 𝐂ʟᴏɴᴇ [2] ˼")
 # ---------------------------------------------------------
 ASSUSERNAME = getenv("ASSUSERNAME" , "NOBITA_MUSIC_TG_BOT")
 # ---------------------------------------------------------
@@ -41,7 +41,7 @@ LOGGER_ID = int(getenv("LOGGER_ID"))
 CLONE_LOGGER = LOGGER_ID
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 5536473064))
+OWNER_ID = int(getenv("OWNER_ID", 8588857939))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 # config.py
@@ -72,9 +72,9 @@ GIT_TOKEN = getenv(
 
 #------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/NOB1TA_SUPPORT")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+E7jXcV6jpK0xMGJl")
-CHAT = getenv("CHAT", "https://t.me/+DRlOUMim-SdjOWJl")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/RonakMusicUpdate")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/RonakMUSICbox")
+CHAT = getenv("CHAT", "https://t.me/Ronakgupta32")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
